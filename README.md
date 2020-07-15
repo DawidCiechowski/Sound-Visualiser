@@ -32,8 +32,8 @@ A sound visualiser, representing graphically the amplitude of the file currently
 
 ### 1
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Sound-Visualiser/blob/master/images/Annotation%202020-07-15%20173142.png)
 
 ### 2
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Sound-Visualiser/blob/master/images/Annotation%202020-07-15%20173224.png)
